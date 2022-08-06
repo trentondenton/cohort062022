@@ -1,0 +1,13 @@
+.header {
+    background-color: #6a4cff;
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.navContainer {
+    color: black;
+    font-size: large;
+    letter-spacing: 2px;
+    font-family: 'Roboto', sans-serif;
+}
