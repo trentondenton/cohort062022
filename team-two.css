@@ -1,11 +1,11 @@
-.background {
- background-color: #6a4cff;
-}
-h1, h2 {
- color: #242424;
- font-family: 'Mouse Memoirs', sans-serif;
-}
-p {
- color: aliceblue;
- font-family: 'Mouse Memoirs', sans-serif;
-}
+.background-wrapper {
+    background-color: #6a4cff;
+   }
+   h1, h2 {
+    color: #242424;
+    font-family: 'Mouse Memoirs', sans-serif;
+   }
+   p {
+    color: aliceblue;
+    font-family: 'Mouse Memoirs', sans-serif;
+   }
