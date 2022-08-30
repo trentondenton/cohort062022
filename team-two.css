@@ -150,6 +150,7 @@ body {
     width: 98vw;
     height: 750px;
     background-image: url(/images/about-images/landcape.jpg);
+    /* background-image: url(/images/about-images/grainy.jpg); */
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -166,7 +167,7 @@ body {
     align-items: center;
     width: 85vw;
     height: 450px;
-    background-color: rgba(88, 106, 106, .5);
+    background-color: rgba(88, 106, 106, .75);
     word-wrap: break-word;
     border: solid transparent 5px;
     flex-flow: row wrap;
@@ -178,7 +179,7 @@ body {
     font-size: .71rem;
     letter-spacing: 2px;
     color: black;
-    font-weight: 500;
+    font-weight: 600;
 }
 
 .footer {
