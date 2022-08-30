@@ -82,7 +82,7 @@
 ------------------------------------------------------------------------
 
 ### Study Resources:
-> https://github.com/DopplerHQ/awesome-interview-questions
-> https://github.com/tarunmankar/javascript-interview-questions
-> https://leetcode.com/
-> https://codewars.com/
++ https://github.com/DopplerHQ/awesome-interview-questions
++ https://github.com/tarunmankar/javascript-interview-questions
++ https://leetcode.com/
++ https://codewars.com/
